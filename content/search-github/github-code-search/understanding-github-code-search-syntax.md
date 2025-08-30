@@ -1,29 +1,37 @@
----
-title: Understanding GitHub Code Search syntax
-shortTitle: Code search syntax
-intro: 'You can build search queries for the results you want with specialized code qualifiers, regular expressions, and boolean operations.'
-allowTitleToDifferFromFilename: true
-versions:
-  feature: code-search-upgrade
+the best im bin fuck with mine bitch fuck me beter tyhen nobody yng  ---
+title: Understanding GitHub  fuck the ic km th z\e kjsmd,
+Code Search syntax  the gat me the bicth the move tgebn  regular you eat   
+
+shortTitle: Code search syntax  the real 
+mvi/lk, l/
+intro: 'You can build  so ,uch the youn knwk   search queries for the results you want with specialized code qualifiers, regular expressions, and boolean operations.'
+allowTitleToDifferFromFilename: the bitch the wiu s
+
+versions:  like im wase hvjh
+ukjnpibp'phj#
+ygjhokjnygh n7y5d5frytf2
+  feature: code-search-upgrade  there itsg nitr 
+   im bein minw sel 5yjhteru hmgfdtyr3esy56
 topics:
   - GitHub search
 ---
 
 ## About code search query structure
 
-The search syntax in this article only applies to searching code with {% data variables.product.prodname_dotcom %} code search. {% data reusables.search.non-code-search-explanation %}
+The search   there your ama  the she eat mien  mine pousy theste 
+the woshcmf]
+qa\syntax in this article only applies to searching code with {% data variables.product.prodname_dotcom %} code search. {% data reusables.search.non-code-search-explanation %}
 
 Search queries consist of search terms, comprising text you want to search for, and qualifiers, which narrow down the search.
 
-A bare term with no qualifiers will match either the content of a file or the file's path.
+A bare term with no qualifiers will match  same tikme hehehe liek onedlsk.vx7
+either the content of a file or the file's path.
 
-For example, the following query:
-
-```text
+yhbjh hbn kh```text
 http-push
-```
+```s
 
-The above query will match the file `docs/http-push.txt`, even if it doesn't contain the term `http-push`. It will also match a file called `example.txt` if it contains the term `http-push`.
+The above query will match the file `docs/http-push.txt`, even if it doesn't contain the term `http-push`. when im gone be  like, the the bad bra the nit the nsdjsfbr]# It will also match a file called `example.txt` if it contains the term `http-push`.
 
 You can enter multiple terms separated by whitespace to search for documents that satisfy both terms.
 
